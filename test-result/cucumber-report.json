@@ -1,0 +1,129 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "hooks-with-background-keyword;verify-playwright-frames2",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Verify Playwright Frames2",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I launch the facebook application in hooks",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Hooks.ts:156"
+            }
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I verify playwright frames in hooks",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Hooks.ts:90"
+            }
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@method",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "hooks-with-background-keyword;verify-test-automation-practice-application",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Verify test automation practice application",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I launch the facebook application in hooks",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Hooks.ts:156"
+            }
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "I launch the test automation practice application in hooks",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Hooks.ts:149"
+            }
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@method",
+            "line": 11
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "hooks-with-background-keyword",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "Hooks With backGround Keyword",
+    "tags": [],
+    "uri": "PlaywrightAutomationCode\\FeatureFiles\\HooksWithbackGroundKeyword.feature"
+  }
+]

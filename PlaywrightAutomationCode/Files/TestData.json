@@ -1,0 +1,23 @@
+{
+    "TestData1": {
+        "Name": "Sai",
+        "Email": "sai@yahoo.com",
+        "Phone": "8908908900",
+        "Address": "Hyderabad",
+        "Wikipedia": "playwright"
+    },
+    "TestData2": {
+        "Name": "Aswin",
+        "Email": "aswin@gmail.com",
+        "Phone": "5678907890",
+        "Address": "bangalore",
+        "Wikipedia": "selenium"
+    },
+    "TestData3": {
+        "Name": "shena",
+        "Email": "shena@gmail.com",
+        "Phone": "4564564567",
+        "Address": "kerala",
+        "Wikipedia": "javascript"
+    }
+}
